@@ -1,0 +1,20 @@
+.sabbath-widget {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.sabbath-widget table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+}
+
+.sabbath-widget th, .sabbath-widget td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+.sabbath-widget th {
+    background-color: #f4f4f4;
+}
