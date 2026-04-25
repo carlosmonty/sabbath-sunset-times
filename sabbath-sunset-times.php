@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Custom Sabbath Times
- * Plugin URI: https://yourwebsite.com
+ * Plugin URI: https://github.com/carlosmonty/sabbath-sunset-times
  * Description: Provides sunset times for the Sabbath based on the user's location, a countdown to the next Sabbath, and displays the times in a widget.
  * Version: 1.0.0
  * Author: Carlos Montgomery
